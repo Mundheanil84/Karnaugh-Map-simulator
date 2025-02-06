@@ -42,6 +42,7 @@ by the user [3] as shown in Fig 2 . The resulting prime
 implicants are displayed in the "notebook" textarea and the 
 optimized expression is displayed in the "booleanfunction" 
 div.
+
 ![image](https://github.com/user-attachments/assets/53cdd0cd-c1dc-4c1a-9b25-21775ab9b35d)
 
 Fig 2. Selection of no. of variables
